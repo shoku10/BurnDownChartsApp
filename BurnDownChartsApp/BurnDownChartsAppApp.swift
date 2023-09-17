@@ -7,8 +7,9 @@
 
 import SwiftUI
 
+
 @main
-struct BurnDownChartsAppApp: App {
+struct YourApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
